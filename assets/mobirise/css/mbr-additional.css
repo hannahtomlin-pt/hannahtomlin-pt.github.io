@@ -487,6 +487,10 @@ h6,
 #features3-1 H4 {
   color: #232323;
 }
+#header3-1t .mbr-section-title,
+#header3-1t .mbr-section-subtitle {
+  text-align: center;
+}
 #form1-2 .form-control-label {
   color: #232323;
 }
@@ -516,4 +520,8 @@ h6,
 }
 #form1-1p .form-control-label {
   color: #232323;
+}
+#social-buttons4-1s .mbr-section-title,
+#social-buttons4-1s .btn-social {
+  color: #fff;
 }
