@@ -245,7 +245,7 @@
           "title2": "Let's Run",
           "subtitle2": "Group running programmes&nbsp;",
           "caption2": "Dedicated progressive programme, building confidence, stamina and distance over a six week period. A veriety of courses to choose from.<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"index.html#header3-k\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#msg-box8-1g\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/boot-camp-2-600x400.jpg",
@@ -568,7 +568,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": true,
             "imageSize": "31",
             "paddingTop": "1",
@@ -882,7 +882,7 @@
           },
           "title": "CONTACT FORM",
           "subtitle": "Make a change &nbsp;- get in touvh and see how we can help you",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-secondary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
           "form": {
             "action": "htomlin@hotmail.co.uk",
             "alerts": {
